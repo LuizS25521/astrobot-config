@@ -1,0 +1,13 @@
+{
+  "version": "3.0.0",
+  "serverUrl": "https://jsasguan.onrender.com",
+  "updateRequired": false,
+  "updateUrl": "",
+  "updateMessage": "",
+  "maintenanceMessage": "",
+  "features": {
+    "autoRenewal": true,
+    "parallelCreation": true,
+    "maxThreads": 12
+  }
+}
